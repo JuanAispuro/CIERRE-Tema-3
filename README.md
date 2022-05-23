@@ -11,3 +11,7 @@ se logro con exito el gdb, tambien una fotografia del makefile creado para la ac
 Programa 1: Primero.s
 
 ![Primero s](https://user-images.githubusercontent.com/99299950/169920179-c1c2664d-664c-4d7c-99f5-9c49c6d19aa9.jpg)
+
+
+![image](https://user-images.githubusercontent.com/99299950/169920237-3ee442d3-809d-4e01-a555-924aa763b7ba.png)
+
