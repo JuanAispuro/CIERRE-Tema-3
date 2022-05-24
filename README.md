@@ -1,5 +1,30 @@
 # CIERRE-Tema-3
 
+Tecnológico Nacional de México
+Instituto Tecnológico de Tijuana
+
+Departamento de Sistemas y Computación
+Ingeniería en Sistemas Computacionales
+
+Semestre:
+Febrero - Junio 2022
+
+Materia:
+Lenguajes de interfaz
+
+Docente:
+M.C. Rene Solis Reyes 
+
+Unidad:
+4
+
+Título del trabajo:
+CIERRE Tema 3: Corra los programas de ARM Assembly entregados a su revisión.
+
+Estudiantes:
+Aispuro Sánchez Juan Armando
+
+
 En esta actividad se mostraran el gdb de los programas puestos por el profesor de manera que se anexaran una fotografia de que
 se logro con exito el gdb, tambien una fotografia del makefile creado para la actividad.
 
@@ -38,12 +63,11 @@ Programa 6: Stack.s
 ---------------------------------------------------------------------
 programa 7: Sum2.s
 --------------------------------------------------------------------
-
+![image](https://user-images.githubusercontent.com/99299950/169933371-17a305af-8fdb-41da-ac0b-67d93940a941.png)
 --------------------------------------------------------------------
 Programa 8:  Sum3.s
 ---------------------------------------------------------------------
-
-
+![image](https://user-images.githubusercontent.com/99299950/169933450-539c0b04-bf3d-4f1a-9504-957bc904dd6d.png)
 ---------------------------------------------------------------------
 
 
